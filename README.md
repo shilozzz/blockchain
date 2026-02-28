@@ -8,8 +8,8 @@ This repository contains my Solidity-based blockchain projects focused on smart 
 
 📂 Projects
 
-1. MultiSignature Wallet
-Configurable multi-owner wallet with reentrancy protection, forced ETH handling, and transaction approval logic.
+1. MultiSignature Wallet :
+Configurable multi owner wallet with reentrancy protection, forced ETH handling, and transaction approval logic.
 
 ---
 
