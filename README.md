@@ -14,6 +14,10 @@ Configurable multi owner wallet with reentrancy protection, forced ETH handling,
 2. Pharmaceutical Drug Authenticity Tracker :
 Blockchain-based supply chain tracking system using RBAC to prevent counterfeit medicines and ensure transparency.
 
+3. ETH Lending Pool (Mini DeFi Protocol) :
+A simplified decentralized lending protocol allowing users to deposit ETH into a liquidity pool and borrow against it.
+Inspired by DeFi protocols like Aave and Compound (simplified architecture).
+
 ---
 
 🛠 Tech Stack
