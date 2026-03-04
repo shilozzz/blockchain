@@ -18,6 +18,9 @@ Blockchain-based supply chain tracking system using RBAC to prevent counterfeit 
 A simplified decentralized lending protocol allowing users to deposit ETH into a liquidity pool and borrow against it.
 Inspired by DeFi protocols like Aave and Compound (simplified architecture).
 
+4. Property Registry :
+A decentralized smart contract system for recording and verifying property ownership on the blockchain, enabling transparent and tamper-proof land records.
+
 ---
 
 🛠 Tech Stack
